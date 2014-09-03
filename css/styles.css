@@ -80,7 +80,7 @@ a:after {
 }
 
 .navbar-default {
-	background-color: #c01919;
+	background-color: #2ecc71;
 	border-color: transparent;
 }
 
@@ -132,7 +132,7 @@ i {
 /* about */
 #about {
 	/* background: url(../img/logo.png) no-repeat center top; */
-	background-color: #2f2f2f;
+	background-color: #2ecc71;
 	margin-top: -20px;
 	padding-top:85px;
 	background-attachment: relative;
@@ -167,8 +167,8 @@ i {
 
 .btn-email {
 	color: #fff;
-	background-color: #c01919;
-	border-color: #b90000;
+	background-color: #27ae60;
+	border-color: #16a085;
 }
 
 .dateLocation {
