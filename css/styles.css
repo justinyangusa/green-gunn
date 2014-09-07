@@ -80,7 +80,7 @@ a:after {
 }
 
 .navbar-default {
-	background-color: #2ecc71;
+	background-color: #27ae60;
 	border-color: transparent;
 }
 
@@ -132,7 +132,7 @@ i {
 /* about */
 #about {
 	/* background: url(../img/logo.png) no-repeat center top; */
-	background-color: #2ecc71;
+	background-color: #27ae60;
 	margin-top: -20px;
 	padding-top:85px;
 	background-attachment: relative;
